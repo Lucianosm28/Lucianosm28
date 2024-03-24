@@ -5,6 +5,7 @@
 </div>
 
 <!-- Apresentação -->
+## Apresentação:
 <p>
  Olá 👋, eu sou o Luciano!
  
@@ -43,7 +44,7 @@
   <img height="520" width="920" src="https://github.com/Lucianosm28/Imagens/blob/main/Imagens/Assets/matrix.gif" alt="Imagem">
 </p>
 
-##  Linguagens de programação e Frameworks
+##  Linguagens de programação e Frameworks:
 <!-- Linguagens -->
   <div style="flex-basis: 48%;">
   <img align="center" alt="Js" height="100" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,10 +55,10 @@
   <img align="center" alt="Spring" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
   </div>
   
+## Ferramentas:
   <!-- Ferramentas de uso -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
     <img align="center" alt="VScode" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Intellij" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg">
+    <img align="center" alt="Intellij" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
     <img align="center" alt="Git Bash" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
   </div>
