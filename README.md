@@ -36,13 +36,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java - (Next Level Week - Projeto de certificação de aluno)](https://github.com/Lucianosm28/certification_nlw)
-- Em breve outros...
+- [Java - (Next Level Week Unite Pass-in - Projeto sobre gestão de participantes em eventos presenciais)](https://github.com/Lucianosm28/pass-in-nlw)
+- [Java - (Next Level Week 14 Certification - Projeto sobre certificação de aluno)](https://github.com/Lucianosm28/certification_nlw)
 
-<!-- GIF -->
-<p align="left">
-  <img height="520" width="920" src="https://github.com/Lucianosm28/Imagens/blob/main/Imagens/Assets/matrix.gif" alt="Imagem">
-</p>
+- Em breve outros...
 
 ##  Linguagens de programação e Frameworks:
 <!-- Linguagens -->
