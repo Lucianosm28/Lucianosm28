@@ -9,7 +9,7 @@
 <p>
  Olá 👋, eu sou o Luciano!
  
-🌱 Atualmente estudando Java e Spring Boot na plataforma da Rocketseat
+🌱 Atualmente estudando Python, Flask, Java e Spring Boot na plataforma da Rocketseat
 
 🔭 Estou em busca de transição de carreira para a área de tecnologia como desenvolvedor. 
 
