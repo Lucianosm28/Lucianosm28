@@ -17,7 +17,7 @@
 
 <!-- Mais sobre -->
 <p>
-💬 Tenho 35 anos e moro no Rio de Janeiro. Tenho 7 anos de experiência em atendimento ao cliente no comércio, que me ajudou a desenvolver habilidades importantes como comunicação, empatia, adaptabilidade e resolução de problemas.
+💬 Tenho 36 anos e moro no Rio de Janeiro. Tenho 7 anos de experiência em atendimento ao cliente no comércio, que me ajudou a desenvolver habilidades importantes como comunicação, empatia, adaptabilidade e resolução de problemas.
 
 ⚡Gosto bastante de esportes principalmente futebol, Games, e claro sou apaixonado por Tecnologia!
 </p>
